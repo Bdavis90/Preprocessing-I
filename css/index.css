@@ -200,6 +200,7 @@ nav a {
 }
 .intro p {
   margin: 0 130px 0 0;
+  font-size: 1.4rem;
 }
 .intro tr {
   border: 1px solid black;
@@ -209,4 +210,19 @@ nav a {
 }
 .intro th {
   font-size: 1.7rem;
+}
+.work-history {
+  font-size: 1.4rem;
+  height: 200px;
+}
+.work-history h1 {
+  margin-bottom: 10px;
+}
+.work-history td {
+  border-top: 1px solid black;
+  padding: 10px 0 10px 30px;
+}
+.work-history th {
+  padding: 10px 0 10px 20px;
+  border-top: 1px solid black;
 }
